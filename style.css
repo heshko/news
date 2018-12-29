@@ -1,0 +1,33 @@
+body{
+    margin: 0px
+}
+*{
+    box-sizing: border-box
+}
+.div-navbar{
+   background-color: rgb(15, 132, 153);
+  color: rgb(2, 2, 5);
+    height: 40px;
+   
+}
+
+
+
+
+.div-1{
+    height: 400px;
+    width: 100%;
+    margin: 0px
+}
+.div-2,.div-3,.div-4,.div-5{
+    height: 400px;
+   
+    width: 337px;
+    border: 2px solid white;
+    float: right;
+    
+}
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
